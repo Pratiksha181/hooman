@@ -1,0 +1,13 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  bg_image : images/backgrounds/bg-testimonial.jpg
+  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  testimonial_item :
+    # testimonial item loop
+    - name : Acknowledgement
+      image : images/client/logo.png
+      image_webp : images/client/client-1.webp
+      content : I would like to thank Softanbees for guiding me throughout the entire course, and for making me understand all the concepts thoroughly. I would like to extend my gratitude to Avijit Mallick Sir who guided me with his enormous experience in technical field, Bratin Das Sir  and Ankit Malik Sir who taught me the basics,Sankhadeep Dutta and  Rishikesh Chakraborty for technical assistance and Surya Ghosh Sir for constant support and personal development. Thanks for your great support and guidance.
+      
+    

@@ -1,0 +1,27 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : My Skills
+  subtitle :Experience
+  content : Data Science Intern at Softanbees Technologies Pvt. Ltd.(May 2020- Present).I have worked with  Data Science tool like R to solve various analytics problems. Currently I’m learning to deploy models using Shiny and Flex framework.
+  image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  Data Science using R
+      percent : 90%
+      
+    # skill item loop
+    - name :  Analysis
+      percent : 70%
+      
+    # skill item loop
+    - name :  Database Management
+      percent : 80%
+      
+    # skill item loop
+    - name :  Web Development
+      percent : 95%
+      
+    # skill item loop
+    - name : C++
+      percent : 75%

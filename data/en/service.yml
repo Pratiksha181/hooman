@@ -1,0 +1,26 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Services
+  service_item :
+    # service item loop
+    - name : Data Science
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : 
+      
+    # service item loop
+    - name : Web Development
+      icon : ti-desktop # themify icon pack : https://themify.me/themify-icons
+      content : 
+      
+    # service item loop
+    - name : Big Data Analytics
+      icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
+      content : 
+      
+    # service item loop
+    - name : Database Management
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : 
+      
+   

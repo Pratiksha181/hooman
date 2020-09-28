@@ -1,0 +1,22 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Me
+  subtitle : Contact Details
+  content : Contact me for any quieries. Say Hello!
+
+  # Contact details
+  contact_list:
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: mandalpratiksha2601@gmail.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"

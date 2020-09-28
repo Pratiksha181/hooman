@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Myself
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title :  Creative
+    content : Active in different co-curriculars.
+ 
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title: Education
+    content : Currently pursuing B.Sc in Statistics Honors from Bethune College Kolkata.I have done my secondary(91.2%) and higher secondary(93.75%) education from Bidya Bharati Girls' High School.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title :  Avid Learner
+    content : Learned programming languages like R and C. I love to solve problems and implement it on my own simpler way. 
