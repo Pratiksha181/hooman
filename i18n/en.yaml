@@ -13,18 +13,14 @@
 - id: all
   translation: All
 - id: about
-  translation: About Us
+  translation: About Myself
 - id: services
   translation: Service
 - id: portfolio
   translation: Portfolio
-- id: team
-  translation: Team
-- id: pricing
-  translation: Pricing
+- id: Acknowledgement
+  translation: Acknowledgement
 - id: blog
   translation: Blog
 - id: contact
   translation: Contact
-- id: themefisher
-  translation: Themefisher
