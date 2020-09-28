@@ -18,7 +18,7 @@
   translation: Service
 - id: portfolio
   translation: Portfolio
-- id: Acknowledgement
+- id: acknowledgement
   translation: Acknowledgement
 - id: blog
   translation: Blog
