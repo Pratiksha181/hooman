@@ -2,7 +2,7 @@
 skill:
   enable : true
   title : My Skills
-  subtitle :Experience
+  subtitle: Experience
   content : Data Science Intern at Softanbees Technologies Pvt. Ltd.(May 2020- Present).I have worked with  Data Science tool like R to solve various analytics problems. Currently I’m learning to deploy models using Shiny and Flex framework.
   image : images/about/company-growth.webp
   skill_item :
