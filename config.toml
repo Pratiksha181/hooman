@@ -9,7 +9,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = []
+disableLanguages = ["fr-fr"]
 
 ############################# Plugins ##########################
 # css plugins
@@ -57,10 +57,9 @@ URL = "portfolio"
 weight = 3
 
 [[menu.main]]
-name = "acknowledgement"
+name = "testimonial"
 URL = "testimonial"
 weight = 4
-
 
 [[menu.main]]
 name = "blog"
@@ -83,7 +82,7 @@ author = "Themefisher"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
-post_share = false
+post_share = true
 # preloader
 [params.preloader]
 enable = true
@@ -113,7 +112,7 @@ link = "https://twitter.com/PratikshaManda9"
 
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "http://www.youtube.com/c/MathematicsBuzz"
 
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
@@ -135,7 +134,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Pratiksha](https://prat.netlify.app/) & Developed by [Gethugothemes](https://prat.netlify.app/)"
+copyright = "Copyright &copy; 2020 Designed by [Pratiksha](https://prat.netlify.app/) & Developed by [Pratiksha](https://prat.netlify.app/)"
 
 ################################ France Language ########################
 [Languages.fr]
